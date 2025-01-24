@@ -43,7 +43,7 @@ main .creation-item-image-continer:last-of-type, main .creation-item-image-conti
 }
 
 header {
-  background-image: url("/images/mobile/image-hero.jpg");
+  background-image: url("./images/mobile/image-hero.jpg");
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -87,8 +87,8 @@ header .showlist .close {
 }
 header .showlist .close:hover {
   transform: rotate(0deg);
-  background-color: rgba(255, 0, 0, 0.452);
-  box-shadow: 0 4px 8px rgba(255, 0, 0, 0.596);
+  background-color: rgba(255, 0, 0, 0.152);
+  box-shadow: 0 4px 8px rgba(255, 0, 0, 0.396);
 }
 header .showlist ul {
   text-align: left;
@@ -186,28 +186,28 @@ main .creation-item-image-continer {
   position: relative;
 }
 main .creation-item-image-continer:first-of-type {
-  background-image: url("/images/mobile/image-deep-earth.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
+  background-image: url("./images/mobile/image-deep-earth.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
 }
 main .creation-item-image-continer:nth-of-type(2) {
-  background-image: url("/images/mobile/image-night-arcade.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
+  background-image: url("./images/mobile/image-night-arcade.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
 }
 main .creation-item-image-continer:nth-of-type(3) {
-  background-image: url("/images/mobile/image-soccer-team.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
+  background-image: url("./images/mobile/image-soccer-team.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
 }
 main .creation-item-image-continer:nth-of-type(4) {
-  background-image: url("/images/mobile/image-grid.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
+  background-image: url("./images/mobile/image-grid.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
 }
 main .creation-item-image-continer:nth-of-type(5) {
-  background-image: url("/images/mobile/image-from-above.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
+  background-image: url("./images/mobile/image-from-above.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
 }
 main .creation-item-image-continer:nth-of-type(6) {
-  background-image: url("/images/mobile/image-pocket-borealis.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
+  background-image: url("./images/mobile/image-pocket-borealis.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
 }
 main .creation-item-image-continer:nth-of-type(7) {
-  background-image: url("/images/mobile/image-curiosity.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
+  background-image: url("./images/mobile/image-curiosity.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
 }
 main .creation-item-image-continer:last-of-type {
-  background-image: url("/images/mobile/image-fisheye.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
+  background-image: url("./images/mobile/image-fisheye.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
 }
 main .creation-item-image-continer:hover {
   opacity: 1;
@@ -299,7 +299,7 @@ footer {
 
 @media screen and (min-width: 700px) {
   header {
-    background-image: url("/images/desktop/image-hero.jpg");
+    background-image: url("./images/desktop/image-hero.jpg");
     background-position: top;
     height: 80vh;
   }
@@ -416,28 +416,28 @@ footer {
     height: 20rem;
   }
   main .creation-item-image-continer:first-of-type {
-    background-image: url("/images/desktop/image-deep-earth.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
+    background-image: url("./images/desktop/image-deep-earth.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
   }
   main .creation-item-image-continer:nth-of-type(2) {
-    background-image: url("/images/desktop/image-night-arcade.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
+    background-image: url("./images/desktop/image-night-arcade.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
   }
   main .creation-item-image-continer:nth-of-type(3) {
-    background-image: url("/images/desktop/image-soccer-team.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
+    background-image: url("./images/desktop/image-soccer-team.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
   }
   main .creation-item-image-continer:nth-of-type(4) {
-    background-image: url("/images/desktop/image-grid.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
+    background-image: url("./images/desktop/image-grid.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
   }
   main .creation-item-image-continer:nth-of-type(5) {
-    background-image: url("/images/desktop/image-from-above.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
+    background-image: url("./images/desktop/image-from-above.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
   }
   main .creation-item-image-continer:nth-of-type(6) {
-    background-image: url("/images/desktop/image-pocket-borealis.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
+    background-image: url("./images/desktop/image-pocket-borealis.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
   }
   main .creation-item-image-continer:nth-of-type(7) {
     background-image: url("/images/desktop/image-curiosity.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
   }
   main .creation-item-image-continer:last-of-type {
-    background-image: url("/images/desktop/image-fisheye.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
+    background-image: url("./images/desktop/image-fisheye.jpg"), linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(255, 255, 255));
   }
   main .creation-item-image-continer:hover {
     opacity: 1;
